@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NandeeshJKalakatti
+- 👋 Hi, I’m NandeeshJKalakatti
 - 👀 I’m interested in Machine Learning,App development..
 - 🌱 I’m currently Engineering Student  ...
 - 
