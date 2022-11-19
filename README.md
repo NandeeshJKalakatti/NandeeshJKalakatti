@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nandeesh Kalakatti</h1>
 <h3 align="center">I am interested in Machine Learning and App development (React Native)</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 - 📫 How to reach me **https://www.linkedin.com/in/nandeeshjk/**
 
 <h3 align="left">Connect with me:</h3>
