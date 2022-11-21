@@ -2,9 +2,7 @@
 <h3 align="center">I am interested in Machine Learning and App development (React Native)</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandeeshjkalakatti&label=Profile%20views&color=0e75b6&style=flat" alt="nandeeshjkalakatti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandeeshjkalakatti" alt="nandeeshjkalakatti" /></a> </p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/nandeeshjk/**
 
@@ -23,4 +21,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandeeshjkalakatti&show_icons=true&locale=en&layout=compact" alt="nandeeshjkalakatti" /></p>
  -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandeeshjkalakatti&label=Profile%20views&color=0e75b6&style=flat" alt="nandeeshjkalakatti" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandeeshjkalakatti" alt="nandeeshjkalakatti" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandeeshjkalakatti&" alt="nandeeshjkalakatti" /></p>
