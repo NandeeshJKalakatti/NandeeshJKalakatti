@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nandeesh Kalakatti</h1>
 <h3 align="center">I am interested in Machine Learning and App development (React Native)</h3>
-<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+<img align="right" alt="Coding" width="400" src=[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gi](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)f>
 
 
 
